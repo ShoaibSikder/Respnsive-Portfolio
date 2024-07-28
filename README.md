@@ -1,8 +1,5 @@
 ## **This is my personal Portfolio website**
 
-
-
-
 ![image Alt](https://github.com/user-attachments/assets/2ed4b245-ef28-49b1-9a34-548798abc389)
 
 ## **Features**
